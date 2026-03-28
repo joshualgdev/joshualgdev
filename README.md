@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Joshua David 👋
 
-<!--
-**joshualgdev/joshualgdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web de Argentina.
 
-Here are some ideas to get you started:
+Código limpio y funcional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+TypeScript • React • Vue • Angular • Astro  
+Tailwind CSS • Python • Git • Figma • WordPress
+
+## También
+
+Agile (SCRUM) • IA y Agentes IA
+
+## Contacto
+
+[@joshualgdev](https://github.com/joshualgdev) — tu@email.com
+
+---
+
+Abierto a charlar sobre web y tecnología.
