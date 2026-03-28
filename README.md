@@ -15,7 +15,7 @@ Agile (SCRUM) • IA y Agentes IA
 
 ## Contacto
 
-[@joshualgdev](https://github.com/joshualgdev) — tu@email.com
+[@joshualgdev](https://github.com/joshualgdev) — joshualezcano8@email.com
 
 ---
 
